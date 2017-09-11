@@ -1,0 +1,17 @@
+{
+  "name": "chat-bot",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bxndle/chat-bot.git"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.0",
+    "express": "^4.15.4",
+    "request": "^2.81.0"
+  }
+}
